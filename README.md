@@ -12,7 +12,7 @@ A placa OpenLabGenios Nano após estar devidamente montada terá os seguintes re
 - 1x Sensor de temperatura LM35;
 - 1x Trimpot;
 - 6x Teclas;
-- 7 LEDs.
+- 7x LEDs.
 
 # Vídeos do funcionamento da placa:
 
