@@ -1,7 +1,7 @@
 # OpenLabGeniosNano
 Open PCB for study of microcontrollers and programming
 
-Projeto Open Hardware de placa didática para estudo e projetos com microcontroladores.
+Projeto Open Hardware de placa didática para estudo e projetos com microcontroladores. Este projeto pode ser utilizado livremente, porém o autor e este link do projeto original devem sempre ser devidadmente citados de maneira formal, além disso todas as alterações devem ser devidamente informadas e também deixadas de forma aberta e livre para outros usuários.
 
 A placa OpenLabGenios Nano após estar devidamente montada terá os seguintes recursos:
 - 1x CPU Arduino Nano V3;
